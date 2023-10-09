@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\bin\Debug\net7.0\CURSO-CSHARP.exe
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\bin\Debug\net7.0\CURSO-CSHARP.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\bin\Debug\net7.0\CURSO-CSHARP.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\bin\Debug\net7.0\CURSO-CSHARP.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\bin\Debug\net7.0\CURSO-CSHARP.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\refint\CURSO-CSHARP.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\CURSO-CSHARP.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\CURSO-CSHARP\primeiro-codigo\obj\Debug\net7.0\ref\CURSO-CSHARP.dll
