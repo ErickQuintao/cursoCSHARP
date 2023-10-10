@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\bin\Debug\net7.0\aula2.exe
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\bin\Debug\net7.0\aula2.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\bin\Debug\net7.0\aula2.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\bin\Debug\net7.0\aula2.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\bin\Debug\net7.0\aula2.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\refint\aula2.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\aula2.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\aulas\obj\Debug\net7.0\ref\aula2.dll
