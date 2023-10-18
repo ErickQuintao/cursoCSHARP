@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\cursoCSHARP\\curso-C#\\curso-C#.csproj",
-      "projectName": "curso-C#",
-      "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\cursoCSHARP\\curso-C#\\curso-C#.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\cursoCSHARP\\c#\\c#\\c#\\c#.csproj",
+      "projectName": "c#",
+      "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\cursoCSHARP\\c#\\c#\\c#\\c#.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\cursoCSHARP\\curso-C#\\obj\\",
+      "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT-HUB\\cursoCSHARP\\c#\\c#\\c#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",

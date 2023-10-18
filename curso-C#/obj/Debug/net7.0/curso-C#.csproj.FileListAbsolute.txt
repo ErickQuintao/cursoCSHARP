@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\bin\Debug\net7.0\curso-C#.exe
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\bin\Debug\net7.0\curso-C#.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\bin\Debug\net7.0\curso-C#.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\bin\Debug\net7.0\curso-C#.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\bin\Debug\net7.0\curso-C#.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\refint\curso-C#.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\curso-C#.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT-HUB\cursoCSHARP\curso-C#\obj\Debug\net7.0\ref\curso-C#.dll

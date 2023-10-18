@@ -8,6 +8,7 @@ namespace aulas
 
         static void Main(string[] args)
         {
+            /*
             byte nx = 10;// 0 e 255
             int num = -10;
             char letrar = 'g';
@@ -29,7 +30,9 @@ namespace aulas
             Console.WriteLine("Produto.......:{0,15}", valorCompra);
             Console.WriteLine("Produto.......:{0,15:c}", valorCompra);
             Console.WriteLine("Produto.......:{0,15:p}", lucro);
-            Console.WriteLine("Produto.......:{0,15:c}", valorVenda);
+            Console.WriteLine("Produto.......:{0,15:c}", valorVenda);*/
+
+
         }
     }
 }
