@@ -1,28 +1,29 @@
-﻿using System.Numerics;
-
-namespace aulas
+﻿using System;
+/*
+namespace C
 {
     class Program
     {
-        
+
         static void Main(string[] args)
         {
-            soma(43,5435,76,45,25,2,5);
+            soma(43, 5435, 76, 45, 25, 2, 5);
         }
-      
-       static void soma(params int[]n)
+
+        static void soma(params int[] n)
         {
-            int res =0;
-            if(n.Length < 1)
+            int res = 0;
+            if (n.Length < 1)
             {
                 Console.WriteLine("Não existem valores a serem somados");
-            } else if(n.Length < 2)
+            }
+            else if (n.Length < 2)
             {
                 Console.WriteLine("Valores insuficientes para soma: {0}", n[0]);
             }
             else
             {
-                for(int i=0;i<n.Length;i++)
+                for (int i = 0; i < n.Length; i++)
                 {
                     res += n[i];
                 }
@@ -31,3 +32,4 @@ namespace aulas
         }
     }
 }
+*/
