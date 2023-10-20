@@ -1,5 +1,5 @@
 using System;
-
+/*
 namespace Aula
 {
     class Calculos
@@ -26,3 +26,4 @@ namespace Aula
         }
     }
 }
+*/
