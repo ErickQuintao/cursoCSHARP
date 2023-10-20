@@ -1,5 +1,5 @@
 using System;
-
+/*
 namespace Aula
 {
     abstract class Veiculo
@@ -45,3 +45,4 @@ namespace Aula
     }
 
 }
+*/
