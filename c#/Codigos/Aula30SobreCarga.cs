@@ -1,5 +1,5 @@
 using System;
-
+/*
 namespace Aula
 {
     class Jogador
@@ -57,3 +57,4 @@ namespace Aula
         }
     }
 }
+*/
